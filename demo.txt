@@ -1,2 +1,2 @@
 My first demo repo
-  Checking status
+ Status check done
